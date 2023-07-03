@@ -20,6 +20,6 @@ System is validated for smooth functioning.<br>
 Database<br>
 For sample purpose, h2 database(local database) is integrated with the application so that application can run for any user.
 If user want to change the database, they can make relevant changes in "application.properties" file.
-Also, some data is pre-populated for sample purpose
+Also, some data is pre-populated for sample purpose.
 
 
