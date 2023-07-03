@@ -1,9 +1,9 @@
-Movie Ticket Booking: A Basic Movie Ticket Booking System. Best suited for someone who is a beginner in Java full stack development.
+Movie Ticket Booking: <br> A Basic Movie Ticket Booking System. Best suited for someone who is a beginner in Java full stack development.
 
-About
+About: <br>
 The Software system is an online movie ticket booking system where customers can book seats according to their preference.
 
-Technologies Used
+Technologies Used:<br>
 SpringBoot<br>
 Java<br>
 AngularJS
